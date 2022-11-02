@@ -1,0 +1,4 @@
+numpy
+tensorflow==2.0.0-beta1
+keras-rl2==1.0.3
+poke_env 
